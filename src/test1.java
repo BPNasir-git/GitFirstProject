@@ -1,7 +1,5 @@
 
 public class test1 {
-	
-	
 	public void testPrint() {
 		System.out.println("Another print Test");
 	}
