@@ -3,13 +3,6 @@ public class Person {
 	String name;
 	String age;
 	String fatherName;
-	String proffession;
-	public String getProffesion(){
-		return proffession;	
-	}
-	public void setProffession(String proffession){
-		this.proffession = proffession;	
-	}
 	public String getName() {
 		return name;
 	}
