@@ -1,17 +1,15 @@
 
 public class Test2 {
-	int i;
-	
-	String a;
-	String b;
-	String c;
-	
-	public Test2(int i, String a, String b, String c) {
+	int i;	
+	String x;
+	String y;
+	String z;
+	public Test2(int i, String x, String y, String z) {
 		super();
 		this.i = i;
-		this.a = a;
-		this.b = b;
-		this.c = c;
+		this.x = x;
+		this.y = y;
+		this.z = z;
 	}
 	public int getI() {
 		return i;
@@ -20,22 +18,22 @@ public class Test2 {
 		this.i = i;
 	}
 	public String getA() {
-		return a;
+		return x;
 	}
 	public void setA(String a) {
-		this.a = a;
+		this.x = a;
 	}
 	public String getB() {
-		return b;
+		return y;
 	}
 	public void setB(String b) {
-		this.b = b;
+		this.y = b;
 	}
 	public String getC() {
-		return c;
+		return z;
 	}
 	public void setC(String c) {
-		this.c = c;
+		this.z = c;
 	}
 	
 }
