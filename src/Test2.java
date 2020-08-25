@@ -4,6 +4,7 @@ public class Test2 {
 	String x;
 	String y;
 	String z;
+	
 	public Test2(int i, String x, String y, String z) {
 		super();
 		this.i = i;
